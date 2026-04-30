@@ -4,7 +4,7 @@ const posters = [
         author: "President Camacho",
         quote: "It's got electrolytes, it's what the shareholders crave",
         regulatory: "Photo: Lazer-Wolf/Dwayne. ELECTROLYTEST™ BRAWNDO: THE THIRST MUTILATOR LLC INC.",
-        image: "images/camacho.jpg" 
+        image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/camacho.jpg" 
     },
     {
         title: "FIGHTING SPIRIT",
