@@ -30,7 +30,7 @@ const posters = [
     {
         title: "MODESTY",
         author: "Matshona Dhliwayo",
-        quote: "A flower does not use words to announce its arrival to the world - it just blooms",
+        quote: "A flower does not use words to announce its arrival to the world",
         regulatory: "Photo: Regional Sales Lead / Maserati. UNWARRANTED CONFIDENCE © GmbH",
         image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/maserati.jpg" 
     },
