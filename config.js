@@ -16,7 +16,7 @@ const posters = [
     {
         title: "STAY HUMBLE",
         author: "Confucius",
-        quote: "Humility is the solid foundation of all virtues.",
+        quote: "Humility is the solid foundation of all virtues",
         regulatory: "Photo: Carragher + Neville/ynwa. EMOTIONS © GmbH",
         image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/carragher.jpg" 
     },
@@ -33,6 +33,13 @@ const posters = [
         quote: "A flower does not use words to announce its arrival to the world",
         regulatory: "Photo: Regional Sales Lead / Maserati. UNWARRANTED CONFIDENCE © GmbH",
         image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/maserati.jpg" 
+    },
+    {
+        title: "STANDARDS",
+        author: "Soumen",
+        quote: "It was a reasonable question",
+        regulatory: "Photo: ASDY Candidate Intake / Survivor Season 12. PSYCHOLOGICAL RESILIENCE © GmbH",
+        image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/interview.jpg"
     },
     {
         title: "COMMUNICATION",
