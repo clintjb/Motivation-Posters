@@ -37,7 +37,7 @@ const posters = [
     {
         title: "STANDARDS",
         author: "Soumen",
-        quote: "It was a reasonable question",
+        quote: "They were reasonable questions",
         regulatory: "Photo: ASDY Candidate Intake / Survivor Season 12. PSYCHOLOGICAL RESILIENCE © GmbH",
         image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/interview.jpg"
     },
