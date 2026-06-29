@@ -42,6 +42,13 @@ const posters = [
         image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/interview.jpg"
     },
     {
+        title: "PREDATION",
+        author: "Sir David Attenborough",
+        quote: "For a brief moment, it was useful, users were happy, no one suspected a thing",
+        regulatory: "Photo: Endangered Species Register / ASDY Conservation Status: CRITICAL. WILDLIFE TRUST © GmbH",
+        image: "https://cdn.jsdelivr.net/gh/clintjb/Motivation-Posters@main/images/retirement.jpg"
+    },
+    {
         title: "COMMUNICATION",
         author: "Anonymous",
         quote: "A picture isn't always clearer than a thousand words",
